@@ -1,0 +1,9 @@
+Watch video in below link
+http://codingbat.com/java/Warmup-1
+Try to accomplish 3-4 tasks
+
+Github video
+https://www.youtube.com/watch?v=R6JomxUjTq8
+
+Вводим два числа, если одно из них делиться на другое без остатка, то выводим тру и показываем результат деления (целую часть от деления  и остачу)
+				в другом случае выводим false и показываем результат деления (целую часть от деления  и остачу)
